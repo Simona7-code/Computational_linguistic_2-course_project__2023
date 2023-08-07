@@ -9,7 +9,7 @@ The folder is composed as follows:
 
 - IronITA.ipynb --> contains the implementation of the first three project requests;
 
-- IronITA_BERT.ipynb --> contains the implementation of a classifier based on a neural language model, ie the latest project request; the file read to create it is dataset_ironita_2018.csv (contained in Dataset); consider changing the reading path in the case of local execution, as the one present in the file was executed on Google Colab and was read directly from the path on Google Drive;
+- IronITA_BERT.ipynb --> contains the implementation of a classifier based on a neural language model, ie the latest project request;
 
 - Relazione_544298.pdf --> project report;
 
@@ -24,6 +24,6 @@ La cartella è così composta:
 
 - IronITA.ipynb --> contiene l'implementazione delle prime tre richieste di progetto;
 
-- IronITA_BERT.ipynb --> contiene l'implementazione di un classificatore basato su un neural language model, ovvero l'ultima richiesta di progetto; il file letto per realizzarlo è dataset_ironita_2018.csv (contenuto in Dataset); tenere in considerazione di cambiare il path di lettura nel caso di esecuzione locale, in quanto quello presente nel file è stato eseguito su Google Colab ed è stato letto direttamente dal path su Google Drive;
+- IronITA_BERT.ipynb --> contiene l'implementazione di un classificatore basato su un neural language model, ovvero l'ultima richiesta di progetto;
 
 - Relazione_544298.pdf --> relazione sul progetto;
