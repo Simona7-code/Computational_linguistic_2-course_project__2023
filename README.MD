@@ -1,3 +1,5 @@
+#Computational_linguistic_2-course_project__2023 
+
 The aim of the project was to perform linguistic analyzes using algorithms for supervised learning of linguistic data, starting from more traditional models such as Support Vector Classifiers up to LLMs such as BertforSequenceClassification.
 The data used were provided by the organizers of the EvalITA 2018 "Ironita" challenge (http://www.di.unito.it/~tutreeb/ironita-evalita18/index.html) and the subtask performed was the irony detection (subtask A).
 Further information and explanation of the results are included in the report (pdf file).
